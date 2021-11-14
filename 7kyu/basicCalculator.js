@@ -14,3 +14,4 @@ function calculate(num1, operation, num2) {
 }
 
 //https://www.codewars.com/kata/5296455e4fe0cdf2e000059f/solutions/javascript
+//re-submit
