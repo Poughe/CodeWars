@@ -1,0 +1,3 @@
+let aspectRatio = (x, y) => [Math.ceil(y * (16 / 9)), y]
+
+//https://www.codewars.com/kata/596e4ef7b61e25981200009f/solutions/javascript/me/best_practice
