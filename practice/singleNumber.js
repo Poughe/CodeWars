@@ -1,5 +1,6 @@
 // Input: nums = [4,1,2,1,2]
 // Output: 4
+//
 
 const singleNumber = function (nums) {
     //method to filter out the num that appears once
